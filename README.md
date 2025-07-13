@@ -14,9 +14,9 @@ The game will tease your brain and enhance it to another level
 
 ---
 
-<img src = "assets/github_images/game1.png" alt = "Screenshot - Output">
-<img src = "assets/github_images/game2.png" alt = "Screenshot - Output">
-<img src = "assets/github_images/game3.png" alt = "Screenshot - Output">
+<img src = "assets/images/game1.png" alt = "Screenshot - Output">
+<img src = "assets/images/game2.png" alt = "Screenshot - Output">
+<img src = "assets/images/game3.png" alt = "Screenshot - Output">
 
 ---
 
