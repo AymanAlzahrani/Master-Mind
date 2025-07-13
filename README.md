@@ -8,7 +8,7 @@ in 10 attempts max.
 The game will tease your brain and enhance it to another level
 
 
-<img src = "assets/github_images/enhanced.gif" alt = "enhanced - gif"> 
+<img src = "assets/images/enhanced.gif" alt = "enhanced - gif"> 
 
 
 
