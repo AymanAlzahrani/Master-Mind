@@ -1,0 +1,5 @@
+C:\Users\aaaim\Desktop\MasterMind\master_mind\publish\master_mind.exe
+C:\Users\aaaim\Desktop\MasterMind\master_mind\publish\master_mind.dll
+C:\Users\aaaim\Desktop\MasterMind\master_mind\publish\master_mind.deps.json
+C:\Users\aaaim\Desktop\MasterMind\master_mind\publish\master_mind.runtimeconfig.json
+C:\Users\aaaim\Desktop\MasterMind\master_mind\publish\master_mind.pdb

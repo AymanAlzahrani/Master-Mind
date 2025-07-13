@@ -1,0 +1,14 @@
+C:\Users\aaaim\Desktop\MasterMind\master_mind\bin\Release\net9.0\win-x64\master_mind.exe
+C:\Users\aaaim\Desktop\MasterMind\master_mind\bin\Release\net9.0\win-x64\master_mind.deps.json
+C:\Users\aaaim\Desktop\MasterMind\master_mind\bin\Release\net9.0\win-x64\master_mind.runtimeconfig.json
+C:\Users\aaaim\Desktop\MasterMind\master_mind\bin\Release\net9.0\win-x64\master_mind.dll
+C:\Users\aaaim\Desktop\MasterMind\master_mind\bin\Release\net9.0\win-x64\master_mind.pdb
+C:\Users\aaaim\Desktop\MasterMind\master_mind\obj\Release\net9.0\win-x64\master_mind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaaim\Desktop\MasterMind\master_mind\obj\Release\net9.0\win-x64\master_mind.AssemblyInfoInputs.cache
+C:\Users\aaaim\Desktop\MasterMind\master_mind\obj\Release\net9.0\win-x64\master_mind.AssemblyInfo.cs
+C:\Users\aaaim\Desktop\MasterMind\master_mind\obj\Release\net9.0\win-x64\master_mind.csproj.CoreCompileInputs.cache
+C:\Users\aaaim\Desktop\MasterMind\master_mind\obj\Release\net9.0\win-x64\master_mind.dll
+C:\Users\aaaim\Desktop\MasterMind\master_mind\obj\Release\net9.0\win-x64\refint\master_mind.dll
+C:\Users\aaaim\Desktop\MasterMind\master_mind\obj\Release\net9.0\win-x64\master_mind.pdb
+C:\Users\aaaim\Desktop\MasterMind\master_mind\obj\Release\net9.0\win-x64\master_mind.genruntimeconfig.cache
+C:\Users\aaaim\Desktop\MasterMind\master_mind\obj\Release\net9.0\win-x64\ref\master_mind.dll
