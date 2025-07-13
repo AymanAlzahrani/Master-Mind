@@ -73,7 +73,6 @@ dotnet run
 1- to give your custmoized code (must be 4 uniqe numbers) run this command after making the directory on publish
 ```
 ./my_mastermind -c 1234
-
 ```
 OR
 
@@ -81,12 +80,10 @@ on the same app folder
 
 ```
 dotnet run -- -c 1234
-
 ```
 2- to give your custmoized number of attempts (must be a number) run this command after making the directory on publish
 ```
 ./my_mastermind -t 12
-
 ```
 OR
 
@@ -94,7 +91,6 @@ on the same app folder
 
 ```
 dotnet run -- -t 12
-
 ```
 
 3- to Exit the app you can use one of these option
